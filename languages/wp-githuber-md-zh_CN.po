@@ -362,7 +362,7 @@ msgstr "如果您更喜欢简单地复制和粘贴图片到您的文章中，而
 
 #: src/Views/example/highlight-js.php:14 src/Views/example/prism.php:14
 msgid ""
-"If you switch to another highlighter moudle, you have to update every your "
+"If you switch to another highlighter module, you have to update every your "
 "post to take effect.<br />Because only the language files defined in the "
 "code block will be loaded, not all fat packed file."
 msgstr "如果您切换至另一个语法高亮模组，您必须更新每篇文章来生效。 <br />因为只有定义在代码区块的编程语言文件会被读取，而不是整包肥胖的文件。"
