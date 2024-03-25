@@ -11,7 +11,7 @@ if ( ! defined('GITHUBER_PLUGIN_NAME') ) die;
  * @version 1.3.0
  */
 ?>
-<p style="color: #aa0000"><?php echo __( 'If you switch to another highlighter moudle, you have to update every your post to take effect.<br />Because only the language files defined in the code block will be loaded, not all fat packed file.', 'wp-githuber-md' ); ?> </p>
+<p style="color: #aa0000"><?php echo __( 'If you switch to another highlighter module, you have to update every your post to take effect.<br />Because only the language files defined in the code block will be loaded, not all fat packed file.', 'wp-githuber-md' ); ?> </p>
 <pre class="prettyprint setting-example">
 <code class="language-markdown">
 ```php
